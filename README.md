@@ -7,4 +7,6 @@ This is Vulcan, a project I spent working on for over 3 weeks, at more than 8 ho
 
 It's not complete, and I don't have the motivation to complete it. Maybe in the future. For now, with the given deadline I had back then, this was what I was able to do.
 
+You can compile it using the game.sh file present in the folder.
+
 Enjoy!
